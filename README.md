@@ -18,7 +18,7 @@ This workshop will bring together experts building these tools, and provide a cl
 ## Speakers and Moderators
 - Carmen G. Almudever, Technical University of Valencia
 - Sébastien Bourdeauducq, M-Labs 
-- Susan Clarke, Sandia National Lab
+- Susan Clark, Sandia National Lab
 - Miroslav Dobsicek, Chalmers University of Technology 
 - Anna Grassellino, Fermilab
 - Zlatko Minev, IBM Research
@@ -61,7 +61,7 @@ Panel with the speakers of Session 2. Moderator: Sarah Kaiser, Unitary Fund
 ### Session 3: Enabling Access: Platforms and Testbeds
 #### 15:15-16:45 Mountain Time
 
-Susan Clarke, Sandia National Lab
+Susan Clark, Sandia National Lab
 
 Irfan Siddiqi, Lawrence Berkeley National Lab
 
