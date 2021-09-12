@@ -15,11 +15,10 @@ This workshop will bring together experts building these tools, and provide a cl
 
 *The abstract of the workshop can also be found on IEEE Quantum Week's [website](https://qce.quantum.ieee.org/workshops-program/#nathanshammah)*.
 
-## Speakers and Moderators
+## Invited Speakers and Moderators
 - Carmen G. Almudever, Technical University of Valencia
 - Sébastien Bourdeauducq, M-Labs 
 - Susan Clark, Sandia National Lab
-- Miroslav Dobsicek, Chalmers University of Technology 
 - Anna Grassellino, Fermilab
 - Zlatko Minev, IBM Research
 - Loic Henriet, PASQAL
@@ -48,8 +47,6 @@ Panel with the speakers of Session 1. Moderator: Gary Steele, TUDelft
 #### 13:00-14:30 Mountain Time
 Guen Prawiroatmodjo, Microsoft Research
 
-Sébastien Bourdeauducq, M-Labs 
-
 Loic Henriet, PASQAL – “Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays”
 
 Anurag Saha Roy, Forschungszentrum Jülich – “Automated quantum device bring-up using the open-source C3 toolset”
@@ -65,7 +62,8 @@ Susan Clark, Sandia National Lab
 
 Irfan Siddiqi, Lawrence Berkeley National Lab
 
-Miroslav Dobsicek, Chalmers University of Technology 
+Sébastien Bourdeauducq, M-Labs 
+
 
 Moderator: Anna Grassellino, Fermilab
 
