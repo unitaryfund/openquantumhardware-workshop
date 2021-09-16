@@ -1,3 +1,8 @@
+---
+layout: post
+title: Program
+---
+
 ## Program
 
 ### Session 1:  The Need for Open Quantum Hardware
