@@ -1,7 +1,4 @@
----
-layout: post
-title: Open Quantum Hardware Workshop
----
+# Open Quantum Hardware Workshop
 
 The 2021 Open Quantum Hardware Workshop is hosted by IEEE's Quantum Week, the IEEE International Conference on Quantum Computing and Engineering (QCE). [Registration](https://qce.quantum.ieee.org/registration/registration-overview/).
 
