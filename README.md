@@ -80,6 +80,8 @@ In this talk, we will address the challenges and opportunities towards open hard
 Programmable arrays of hundreds of Rydberg atoms have recently enabled the exploration of remarkable phenomena in many-body quantum physics. In addition, the development of high-fidelity quantum gates are making them promising architectures for the implementation of quantum circuits. We present here Pulser, an open-source Python library for programming neutral-atom devices at the pulse level. The low-level nature of Pulser makes it a versatile framework for quantum control both in the digital and analog settings. The library also contains simulation routines for studying and exploring the outcome of pulse sequences for small systems.
 
 #### Anurag Saha Roy, Forschungszentrum Jülich “Automated quantum device bring-up using the open-source C3 toolset”
+**Abstract**
+Scaling up quantum computation is currently limited not by the number of qubits, but the entangling gate infidelity. However, the highly detailed system characterization required to understand the underlying error sources is an arduous process and impractical with increasing chip size. Open-loop optimal control techniques allow for the improvement of gates but are limited by the models they are based on. To rectify the situation, an integrated open-source tool-set for Control, Calibration and Characterization, capable of open-loop pulse optimization, model-free calibration, model fitting and refinement is presented here. In this talk we highlight the major capabilities of this library as well as some interesting applications and future plans.
 
 
 
