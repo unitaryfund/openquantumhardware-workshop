@@ -50,7 +50,7 @@ minima:
 header_pages:
   - index.md
   - program.md
-  - open-quantum-hardware/projects.md
+  - open-quantum-hardware/README.md
 
 # Build settings
 theme: minima
