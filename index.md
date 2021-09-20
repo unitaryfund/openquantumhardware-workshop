@@ -36,7 +36,7 @@ This workshop will bring together experts building these tools, and provide a cl
 
 ### Session 1:  The Need for Open Quantum Hardware
 #### 10:45-12:15 Mountain Time
-Jacob Taylor, University of Maryland/JQI (keynote)
+Jacob Taylor, University of Maryland/JQI - "Enabling the quantum ecosystem" (keynote)
 
 Carmen G. Almudever, Technical University of Valencia - "Closing the Gaps Between Open Quantum Software and Hardware"
 
@@ -74,6 +74,8 @@ Moderator: Anna Grassellino, Fermilab
 A full or compact view of the full [QCE21 Program](https://qce.quantum.ieee.org/workshops-program/). 
 
 ## Talk Abstracts
+
+#### Jacob Taylor, University of Maryland/JQI - "Enabling the quantum ecosystem"
 
 #### Carmen G. Almudever, Technical University of Valencia - "Closing the Gaps Between Open Quantum Software and Hardware"
 **Abstract**
