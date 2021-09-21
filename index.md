@@ -40,7 +40,7 @@ Jacob Taylor, University of Maryland/JQI - "Enabling the quantum ecosystem" (key
 
 Carmen G. Almudever, Technical University of Valencia - "Closing the Gaps Between Open Quantum Software and Hardware"
 
-Zlatko Minev, IBM Research
+Zlatko K. Minev, IBM Research - "To design & analyze superconducting qubits"
 
 Panel with the speakers of Session 1. Moderator: Gary Steele, TUDelft
 
@@ -80,6 +80,8 @@ A full or compact view of the full [QCE21 Program](https://qce.quantum.ieee.org/
 #### Carmen G. Almudever, Technical University of Valencia - "Closing the Gaps Between Open Quantum Software and Hardware"
 **Abstract**
 In this talk, we will address the challenges and opportunities towards open hardware and its implications for building full-stack quantum computing systems. We will first revisit full-stack quantum computing architectures focusing on its higher layers (quantum software). We will then highlight the diversity in alternatives across the stack and need for tight cross-layer co-design. We will introduce structured design space exploration methodologies as a predecessor for automated design.  We will finalize the talk by discussing the attributes that the community needs to pursue to achieve open quantum hardware, namely, modularity and abstraction, interoperability, standardized libraries, and optimal design. 
+
+#### Zlatko K. Minev, IBM Research - "To design & analyze superconducting qubits"
 
 #### Loic Henriet, PASQAL – “Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays”
 **Abstract**
