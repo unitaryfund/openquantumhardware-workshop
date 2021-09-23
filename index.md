@@ -61,9 +61,9 @@ Panel with the speakers of Session 2. Moderator: Sarah Kaiser, Unitary Fund
 ### Session 3: Enabling Access: Platforms and Testbeds
 #### 15:15-16:45 Mountain Time
 
-Susan Clark, Sandia National Lab
+Susan Clark, Sandia National Lab - "QSCOUT: A “White-Box” Quantum Testbed Based on Trapped Ions at Sandia National Laboratories"
 
-Irfan Siddiqi, Lawrence Berkeley National Lab
+Irfan Siddiqi, Lawrence Berkeley National Lab - "Advancing Deep Collaborative Research in Superconducting Quantum Computing @ LBNL"
 
 Sébastien Bourdeauducq, M-Labs 
 
