@@ -26,7 +26,7 @@ This workshop will bring together experts building these tools, and provide a cl
 - Zlatko Minev, IBM Research
 - Loic Henriet, PASQAL
 - Sarah Kaiser, Unitary Fund
-- Guen Prawiroatmodjo, Microsoft Research
+- Guen Prawiroatmodjo, Microsoft
 - Anurag Saha Roy, Forschungszentrum Jülich
 - Irfan Siddiqi, Lawrence Berkeley National Lab
 - Gary Steele, TUDelft
@@ -48,7 +48,7 @@ Panel with the speakers of Session 1. Moderator: Gary Steele, TUDelft
 
 ### Session 2: Control and Data Acquisition
 #### 13:00-14:30 Mountain Time
-Guen Prawiroatmodjo, Microsoft Research
+Guen Prawiroatmodjo, Microsoft Research – “Using QCoDeS for Automated Quantum Device Characterization and Control”
 
 Loic Henriet, PASQAL – “Pulser: An open-source package for the design of pulse sequences in programmable neutral-atom arrays”
 
