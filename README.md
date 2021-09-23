@@ -60,12 +60,11 @@ Panel with the speakers of Session 2. Moderator: Sarah Kaiser, Unitary Fund
 
 Susan Clark, Sandia National Lab - "QSCOUT: A “White-Box” Quantum Testbed Based on Trapped Ions at Sandia National Laboratories"
 
-Irfan Siddiqi, Lawrence Berkeley National Lab
+Irfan Siddiqi, Lawrence Berkeley National Lab – "Advancing Deep Collaborative Research in Superconducting Quantum Computing @ LBNL"
 
-Sébastien Bourdeauducq, M-Labs 
+Sébastien Bourdeauducq, M-Labs – "Control and data acquisition with ARTIQ (Advanced Real-Time Infrastructure for Quantum physics)"
 
-
-Moderator: Anna Grassellino, Fermilab
+Panel with the speakers of Session 3. Moderator: Anna Grassellino, Fermilab
 
 
 A full or compact view of the full [QCE21 Program](https://qce.quantum.ieee.org/workshops-program/). 
