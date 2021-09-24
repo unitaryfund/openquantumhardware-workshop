@@ -91,6 +91,11 @@ Programmable arrays of hundreds of Rydberg atoms have recently enabled the explo
 **Abstract**
 Scaling up quantum computation is currently limited not by the number of qubits, but the entangling gate infidelity. However, the highly detailed system characterization required to understand the underlying error sources is an arduous process and impractical with increasing chip size. Open-loop optimal control techniques allow for the improvement of gates but are limited by the models they are based on. To rectify the situation, an integrated open-source tool-set for Control, Calibration and Characterization, capable of open-loop pulse optimization, model-free calibration, model fitting and refinement is presented here. In this talk we highlight the major capabilities of this library as well as some interesting applications and future plans.
 
+#### Irfan Siddiqi, Lawrence Berkeley National Lab - "Advancing Deep Collaborative Research in Superconducting Quantum Computing @ LBNL"
+**Abstract**
+With recent advances in state-of-the-art superconducting quantum computing platforms, research in all areas of Quantum Information Science and Technology (QuIST) has advanced at an accelerated pace over the last few years. Access to hardware platforms remains a critical enabling factor in the continued development and evolution of quantum computing. At the Advanced Quantum Testbed, we have built a multidisciplinary science and technology environment, providing access to the full stack of software and hardware to our collaborative Users from Academia, National Labs, and Industry. The pre-existing multidisciplinary tradition of advanced, customized hardware development and design at Lawrence Berkeley National Lab has been of particular advantage in our ongoing expanding efforts. In this talk, I will provide an overview of the AQT experimental platform, and highlight intra- and inter-Lab collaborations involved in making this platform possible. I will also address the potential for our published and open-sourced hardware designs, both existing and planned, to lower the barrier-to-entry for early-career researchers to engage in experimental research in QuIST.
+
+
 ## Additional Resources
 An open-access, open-source list of open quantum hardware projects can be found [here](https://github.com/nathanshammah/open-quantum-hardware).
 
